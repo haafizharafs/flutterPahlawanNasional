@@ -1,16 +1,5 @@
-# pahlawan_nasional_haafizharafs
+# Pahlawan Nasional by Haafizhar Al Fathan Syauqi
 
-A new Flutter project.
+sebuah aplikasi mobile yang menampilkan list Pahlawan Nasional yang diambil dari API "Pahlawan Nasional Indonasia" oleh Yogi Saputro https://indonesia-public-static-api.vercel.app/api/heroes
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+project ini ditujukan sebagai tugas akhir semester 5 mata kuliah Pemrograman Mobile.
